@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 3,
+  "sectionOrder": ["work", "projects", "skills", "education"],
+  "name": "",
+  "role": "",
+  "phone": "",
+  "email": "",
+  "website": "",
+  "city": "",
+  "salary": "",
+  "fontSize": 13,
+  "summary": "",
+  "sections": [
+    {
+      "id": "work",
+      "kind": "work",
+      "title": "工作经历",
+      "label": "工作经历",
+      "hidden": true,
+      "entries": [
+        {
+          "title": "",
+          "date": "",
+          "body": "",
+          "subtitle": "",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "id": "projects",
+      "kind": "projects",
+      "title": "项目经历",
+      "label": "项目经历",
+      "hidden": true,
+      "entries": [
+        {
+          "title": "",
+          "date": "",
+          "body": "",
+          "subtitle": "",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "id": "skills",
+      "kind": "skills",
+      "title": "专业技能",
+      "label": "专业技能",
+      "hidden": true,
+      "entries": [
+        {
+          "title": "",
+          "date": "",
+          "body": "",
+          "subtitle": "",
+          "location": ""
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "kind": "education",
+      "title": "教育经历",
+      "label": "教育经历",
+      "hidden": true,
+      "entries": [
+        {
+          "title": "",
+          "date": "",
+          "body": "",
+          "subtitle": "",
+          "location": ""
+        }
+      ]
+    }
+  ]
+}
